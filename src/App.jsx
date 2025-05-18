@@ -1,11 +1,17 @@
 import { useState } from 'react'
+
+// Imagens
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+
+// Styles CSS
 import './App.css'
 
+// Components
 import FirstComponent from './components/FirstComponent'
 import TemplateExpressions from './components/TemplateExpressions'
 import Pai from './components/Pai'
+import Events from './components/Events'
 
 function App() {
   // comentário
@@ -28,6 +34,7 @@ function App() {
         <FirstComponent />
         <TemplateExpressions />
         <Pai/>
+        <Events/>
       </div>
     </>
   )
