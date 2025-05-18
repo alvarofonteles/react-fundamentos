@@ -1,4 +1,4 @@
-function PrimeiroComponente() {
+function FirstComponent() {
   return (
     <div>
       <h1>Álvaro, Deus é contigo!
@@ -6,9 +6,9 @@ function PrimeiroComponente() {
       </h1>
       <h1>Amém!</h1>
       <p className="dev">Alvaro</p>
-      <br/>Componente usando [function PrimeiroComponente].
+      <br/>Componente usando [function FirstComponent].
     </div>
   );
 }
 
-export default PrimeiroComponente;
+export default FirstComponent;

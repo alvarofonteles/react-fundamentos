@@ -1,4 +1,4 @@
-import Filho from "Filho"
+import Filho from './Filho'
 
 const Pai = () => {
     const pai = 'Álvaro'
