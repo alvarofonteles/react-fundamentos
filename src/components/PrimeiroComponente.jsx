@@ -1,7 +1,7 @@
 function PrimeiroComponente() {
   return (
     <div>
-      <h1>Alvaro, Deus é contigo!
+      <h1>Álvaro, Deus é contigo!
         <br/>Futuro Fullstack React(NextJS) + Spring(RestAPI)
       </h1>
       <h1>Amém!</h1>
