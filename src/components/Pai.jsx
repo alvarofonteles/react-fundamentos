@@ -5,7 +5,7 @@ const Pai = () => {
 
     return (
         <div>
-            <p>Pai: {pai}</p>
+            Pai: {pai}
             <Filho />
         </div>
     )

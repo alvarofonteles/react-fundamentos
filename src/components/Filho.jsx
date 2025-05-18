@@ -5,7 +5,7 @@ const Filho = () => {
 
     return (
         <div>
-            <p>Filho: {filho}</p>
+            Filho(a): {filho}
             <Neto />
         </div>
     )
