@@ -1,8 +1,10 @@
 const Neto = () => {
     var nome = "Vitória"
-    
-    return(
-        <div>Neto: {nome}</div>
+
+    return (
+        <div>
+            Neto: {nome}
+        </div>
     )
 }
 
