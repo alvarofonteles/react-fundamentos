@@ -7,7 +7,6 @@ import FirstComponent from './components/FirstComponent'
 import TemplateExpressions from './components/TemplateExpressions'
 import Pai from './components/Pai'
 
-
 function App() {
   // comentário
   /* comentário 2 */
@@ -28,8 +27,8 @@ function App() {
         <h1>Fundamentos do React</h1>
         <FirstComponent />
         <TemplateExpressions />
+        <Pai/>
       </div>
-      <div><Pai/></div>
     </>
   )
 }
